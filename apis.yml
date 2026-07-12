@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.ciscospark.com
 common:
+  - type: DomainSecurity
+    url: security/cisco-spark-domain-security.yml
   - type: Website
     url: https://developer.ciscospark.com
   - type: PublicAPIsListing
